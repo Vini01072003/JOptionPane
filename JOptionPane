@@ -1,0 +1,65 @@
+importar  javax . balanço . JOptionPane ;
+
+ classe  pública ImcJoptions {
+
+	public  static  void  main ( String [] args ) {
+//		
+// JOptionPane.showMessageDialog(null, "Olá, mundo!");
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", 0);
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", 1);
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", 2);
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", 3);
+//
+//		
+// JOptionPane.showMessageDialog(null, "Olá, mundo!");
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", JOptionPane.ERROR_MESSAGE);
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", JOptionPane.INFORMATION_MESSAGE);
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", JOptionPane.WARNING_MESSAGE);
+// JOptionPane.showMessageDialog(null, "Olá, mundo!", "Senai Jandira", JOptionPane.QUESTION_MESSAGE);
+
+
+resposta  ; _
+
+		// resposta = JOptionPane.showConfirmDialog(null, "Confirmação");
+// resposta = JOptionPane.showConfirmDialog(
+// nulo,
+// "Confirmação",
+// "SENAI JANDIRA",
+//JOptionPane.YES_NO_OPTION
+// );
+// System.out.print(resposta);
+//		
+// if (resposta == -1) {
+//JOptionPane.showMessageDialog(
+// nulo,
+// "MENSAGEM INVÁLIDA",
+// "RESPOSTA INVÁLIDA",
+//JOptionPane.YES_NO_OPTION
+// );
+//
+// resposta = JOptionPane.showConfirmDialog(null, "Confirmação", "SENAI JANDIRA", JOptionPane.OK_CANCEL_OPTION);
+//
+// System.out.print(resposta);
+//
+// if (resposta == -1) {
+// JOptionPane.showMessageDialog(null, "MENSAGEM INVÁLIDA", "RESPOSTA INVÁLIDA", JOptionPane.YES_NO_OPTION);
+//
+// }
+		
+		 Nome da string ;
+		
+		
+		nome = JOptionPane . showInputDialog ( "Qual o seu nome?" );
+		
+		JOptionPane . showMessageDialog ( null , nome );
+		
+		Sistema . fora . println ( nome );
+		
+		
+		
+		
+		
+		
+	}
+}
+
